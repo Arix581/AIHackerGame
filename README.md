@@ -10,8 +10,15 @@ https://app.schoolai.com/student-space?code=DMZ8&sessionId=cm84r2cng0ixll66nd8rk
 
 ## To Do
 <ul>
-  <li>Display Remaining Hands</li>
+  <li>
+    <ul>Display Player Statistics such as
+      <li>Hands Remaining</li>
+      <li>Cards in Discard, Deck, and Hand</li>
+    </ul>
+  </li>
   <li>Let the player win and add more cards to their deck</li>
   <li>Procedurally generate enemies</li>
   <li>add boss levels</li>
+  <li>Indicators for when a card is selected</li>
+  <li>Re add the deck icon</li>
 </ul>
