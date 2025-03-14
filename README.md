@@ -17,7 +17,7 @@ https://app.schoolai.com/student-space?code=DMZ8&sessionId=cm84r2cng0ixll66nd8rk
     </ul>
   </li>
   <li>X - Let the player win and add more cards to their deck</li>
-  <li>Procedurally generate enemies</li>
+  <li>x - Procedurally generate enemies</li>
   <li>add boss levels</li>
   <li>Indicators for when a card is selected</li>
   <li>Re add the deck icon</li>
