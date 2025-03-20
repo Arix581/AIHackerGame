@@ -22,6 +22,7 @@ you can multiselect cards to save time
 ## To Do
 Reccomended by Dad - Indicators for when a card is selected
 Reccomended by August - Enemy rarity system so that the player isnt overwhelmed
+Reccomended by Steven
 
 <ul>
   <li>
@@ -36,5 +37,5 @@ Reccomended by August - Enemy rarity system so that the player isnt overwhelmed
   <li>X - Reccomended by Dad - Indicators for when a card is selected</li>
   <li>x - Re add the deck icon</li>
   <li>x - Reccomended by August - Enemy rarity system so that the player isnt overwhelmed</li>
-  <li>fix weird bug that makes it so that there are two stuck viruses</li>
+  <li>x - fix weird bug that makes it so that there are two stuck viruses</li>
 </ul>
