@@ -37,5 +37,5 @@ Reccomended by Steven
   <li>X - Reccomended by Dad - Indicators for when a card is selected</li>
   <li>x - Re add the deck icon</li>
   <li>x - Reccomended by August - Enemy rarity system so that the player isnt overwhelmed</li>
-  <li>x - fix weird bug that makes it so that there are two stuck viruses</li>
+  <li>ITS *^^%&^%*&^%IN BACK!!! fix weird bug that makes it so that there are two stuck viruses</li>
 </ul>
