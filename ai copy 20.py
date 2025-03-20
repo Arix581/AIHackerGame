@@ -123,7 +123,7 @@ class Game:
         # Check if the player's hand is empty  
         if not self.player_hand.cards and self.redraws_left > 0:  
             self.redraw_hand() 
-        else:
+        elif not self.battle_won and not self.player_hand.cards and self.redraws_left <= 0:
             self.game_over = True 
   
     def redraw_hand(self):  
@@ -135,7 +135,7 @@ class Game:
             self.draw_hand()  
   
         # Check for failure state  
-        if self.redraws_left == 0 and not self.player_hand.cards and not self.deck.cards:  
+        if self.redraws_left == 0 and not self.player_hand.cards:  
             self.game_over = True  
   
     def game_loop(self):  
